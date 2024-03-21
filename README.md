@@ -10,4 +10,4 @@ Neste desafio, a aplicação foi desenvolvida a partir de um layout já existent
 
 ## Representação do projeto:
 
-![imagem representando o projeto](RocketSect.PNG)
+<img src="./RocketSect.PNG" alt="Imagem representando o projeto">
